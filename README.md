@@ -15,7 +15,9 @@ Emplear los conocimientos adquiridos sobre circuitos en serie y paralelo mediant
 ## MARCO TEÓRICO (RESUMEN)
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/1.png)
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/2.png)
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/3.png)
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -33,6 +35,7 @@ Emplear los conocimientos adquiridos sobre circuitos en serie y paralelo mediant
 **5) En la tarjeta de circuito impreso de doble cara mostrada en la figura, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/6.png)
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/7.png)
 
 R10, R1, R7, R8 están en serie.
@@ -52,6 +55,7 @@ Para conseguir 4.5 V es necesario colocar las baterías en serie para sumar sus 
 **11) Encuentre la resistencia total de los siguientes grupos de resistores en serie:**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/10.png)
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/11.png)
 
 **13) ¿Cuál es la resistencia total de doce resistores de 5.6 kΩ dispuestos en serie?**
@@ -65,12 +69,15 @@ Para conseguir 4.5 V es necesario colocar las baterías en serie para sumar sus 
 **17) En la figura, encuentre la resistencia total si los tres circuitos están conectados en serie.**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/14.png)
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/15.png)
 
 **19) ¿Cuál es la corriente presente en cada circuito de la figura?**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/16.png)
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/17.png)
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/18.png)
 
 **21) Se conectan tres resistores de 470 Ω en serie con una fuente de 48 V.**
@@ -119,6 +126,7 @@ No, debido a que en ninguna posición se excede la intensidad que soporta el fus
 **29) Determine el voltaje de fuente total en cada circuito de la figura.**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/28.png)
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/29.png)
 
 ## VIDEO
