@@ -14,6 +14,10 @@ Emplear los conocimientos adquiridos sobre circuitos en serie y paralelo mediant
 
 ## MARCO TEÓRICO (RESUMEN)
 
+![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/1.png)
+![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/2.png)
+![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/3.png)
+
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ## VIDEO
