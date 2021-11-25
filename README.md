@@ -145,4 +145,4 @@ No, debido a que en ninguna posición se excede la intensidad que soporta el fus
 - Circuito Eléctrico en Serie. (2021, 6 julio). Electrónica Online. Recuperado 24 de noviembre de 2021, de https://electronicaonline.net/circuito-electrico/circuito-en-serie/
 - Equipo editorial, Etecé. (2021, 6 agosto). Circuito en Serie - Concepto, elementos y ejemplos. Concepto. Recuperado 24 de noviembre de 2021, de https://concepto.de/circuito-en-serie/
 - Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
-- Julián, C. (2021, 4 noviembre). ▷ Resistencias en Paralelo. Fisimat | Blog de Física y Matemáticas. Recuperado 24 de noviembre de 2021, de https://www.fisimat.com.mx/resistencias-paralelo-ejercicios-resueltos/
+- Julián, C. (2021, 4 noviembre). Resistencias en Paralelo. Fisimat | Blog de Física y Matemáticas. Recuperado 24 de noviembre de 2021, de https://www.fisimat.com.mx/resistencias-paralelo-ejercicios-resueltos/
