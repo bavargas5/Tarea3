@@ -20,6 +20,18 @@ Emplear los conocimientos adquiridos sobre circuitos en serie y paralelo mediant
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+**Cap 5 (Circuitos en serie)**
+
+1) Conecte en serie cada juego de resistores mostrado en la figura entre los puntos A y B.
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/4.png)
+
+3) Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura.
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/5.png)
+
+5) En la tarjeta de circuito impreso de doble cara mostrada en la figura, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
+
 ## VIDEO
 
 ## CONCLUSIONES
