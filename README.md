@@ -160,16 +160,14 @@ Grupo 3-Color-celeste: R3 y R11 están en paralelo.
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/4.png)
 
 Cada componente lee un voltaje de 100 por que se encuentra en paralelo y recordando que: el voltaje en cada rama
-
 del circuito que esta en paralelo es igual al voltaje que tiene cada componente en paralelo 
 
-7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
-interruptor?
+**7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
+interruptor?**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/5.png)
 
 En este caso como tenemos un interruptor va a pasar que la corriente y el voltaje no va a pasar por las ramas que
-
 no tengan el interruptor
 
 
@@ -178,7 +176,6 @@ Caso A
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/5.1.png)
 
 El voltaje solo va a llegar a la resistencia R4 por lo que esta tendrá un voltaje V4= 15V los demás tendrán un 
-
 voltaje de V=0 V además de la R1 que esta antes del interruptor tiene un voltaje de V1=15V
 
 
@@ -189,7 +186,6 @@ Caso B
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/5.2.png)
 
 El voltaje solo va a llegar a la resistencia R3 por lo que esta tendrá un voltaje V4= 15V los demás tendrán un 
-
 voltaje de V=0 V además de la R1 que esta antes del interruptor tiene un voltaje de V1=15V
 
 
@@ -199,12 +195,11 @@ Caso C
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/5.2.png)
 
 El voltaje solo va a llegar a la resistencia R2 por lo que esta tendrá un voltaje V4= 15V los demás tendrán un 
-
 voltaje de V=0 V además de la R1 que esta antes del interruptor tiene un voltaje de V1=15V
 
 
-9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
-300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+**9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
+300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?**
 
 Para resolver este ejercicio recordamos: La suma de las corrientes que entran a un nodo (corriente total de 
 entrada) es igual a la suma de las corrientes que salen de dicho nodo (corriente total de salida).
@@ -250,7 +245,7 @@ Después usamos la ley de Ohm para encontrar el valor de cada resistencia
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/6.4.png)
 
-**13. La resistencia total de un circuito en paralelo es de 25 Ω . ¿Cuál es la corriente a través de un resistor
+**13.  La resistencia total de un circuito en paralelo es de 25 Ω . ¿Cuál es la corriente a través de un resistor
 de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?**
 
 
@@ -263,7 +258,7 @@ La corriente será:
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/7.1.png)
 
-**15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:**
+**15.  Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:**
 
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/8.png)
@@ -334,7 +329,7 @@ Para este caso ya podemos usar todas las resistencias que están en este circuit
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/11.5.png)
 
-**23. Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?**
+**23.  Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?**
 
 Primero calculamos la resistencia total
 
@@ -345,7 +340,7 @@ Después usamos la ley de Ohm
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/12.1.png)
 
 
-**25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una
+**25.  Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una
 fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kÆ, ¿cuál es la corriente
 a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?**
 
@@ -358,7 +353,7 @@ Para esto usamos la ley de Ohm
 Cuando un foco se quema o se funde lo que pasa es que los demás focos permanecen encendidos debido a que es un circuito paralelo
 
 
-**27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el fusible de 0,5 A se funda?**
+**27.  ¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el fusible de 0,5 A se funda?**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/14.png)
 
@@ -370,7 +365,7 @@ Primero usamos la ley de Ohm
 Como observamos va a pasar un voltaje demasiado alto para eso usaremos la R=53.7 Ω
 
 
-**29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.**
+**29.  Encuentre los valores de las cantidades no especificadas en la figura 6-77.**
 
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/16.png)
@@ -393,7 +388,7 @@ Posición B: 4.75 mA
 
 Posición C: 7 mA
 
-**33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.**
+**33.  Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/18.png)
 
@@ -425,7 +420,7 @@ Con esto ya podemos sacar las resistencias
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/19.3.png)
 
 
-**37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas
+**37.  En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas
 de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50
 mV, 10 kÆ de escala completa entre la derivación para realizar la medición.**
 
@@ -464,7 +459,7 @@ PARA EL CASO B
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/21.5.png)
 
-**41. Encuentre los valores de las cantidades no especificadas en la figura 6-84.**
+**41.  Encuentre los valores de las cantidades no especificadas en la figura 6-84.**
 
 
 
@@ -490,7 +485,7 @@ La potencia total es la suma de todas las potencias de cada componente
  
  ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/23.2.png)
  
- **45. ¿Qué está mal con el circuito de la figura 6-86?**
+ **45.  ¿Qué está mal con el circuito de la figura 6-86?**
  
  ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/24.png)
  
