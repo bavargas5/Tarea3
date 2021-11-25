@@ -491,7 +491,7 @@ La potencia total es la suma de todas las potencias de cada componente
  
  La resistencia de 8.2 Ω está abierta por que no están con los puntos
  
-Además, sumando las intensidades solo nos da el resultado de la sima de R1 Y R2 sus corrientes
+Además, sumando las intensidades solo nos da el resultado de la suma de R1 Y R2 sus corrientes
 Ley de ohm
 
  
