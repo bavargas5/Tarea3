@@ -114,7 +114,6 @@ b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del int
 
 c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
 
-
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/26.png)
 
 No, debido a que en ninguna posición se excede la intensidad que soporta el fusible.
@@ -128,6 +127,9 @@ No, debido a que en ninguna posición se excede la intensidad que soporta el fus
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/28.png)
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/29.png)
+
+
+**Cap 6 (Circuitos en paralelo)**
 
 ## VIDEO
 
