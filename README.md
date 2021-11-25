@@ -138,3 +138,10 @@ No, debido a que en ninguna posición se excede la intensidad que soporta el fus
 -	En conclusión, resumir las partes más importantes de cada tema permitieron conservar mejor la información y así recordarla mejor posteriormente.
 -	Todos los ejercicios resueltos ayudan a aplicar las fórmulas y conceptos aprendidos. Y así obtener las respuestas correctas.
 -	Crear un video sobre los circuitos en serie y en paralelo permite que el estudiante describa los procesos realizados y el conocimiento adquirido tanto en clase.
+
+## BIBLIOGRAFÍA
+
+- Circuito Eléctrico en Paralelo. (2021, 19 junio). Electrónica Online. Recuperado 24 de noviembre de 2021, de https://electronicaonline.net/circuito-electrico/circuito-en-paralelo/
+- Circuito Eléctrico en Serie. (2021, 6 julio). Electrónica Online. Recuperado 24 de noviembre de 2021, de https://electronicaonline.net/circuito-electrico/circuito-en-serie/
+- Equipo editorial, Etecé. (2021, 6 agosto). Circuito en Serie - Concepto, elementos y ejemplos. Concepto. Recuperado 24 de noviembre de 2021, de https://concepto.de/circuito-en-serie/
+- Julián, C. (2021, 4 noviembre). ▷ Resistencias en Paralelo. Fisimat | Blog de Física y Matemáticas. Recuperado 24 de noviembre de 2021, de https://www.fisimat.com.mx/resistencias-paralelo-ejercicios-resueltos/
