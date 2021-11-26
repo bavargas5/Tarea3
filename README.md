@@ -194,6 +194,34 @@ No, debido a que en ninguna posición se excede la intensidad que soporta el fus
 
 **55) Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.**
 
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_55a.JPG)
+
+El problema con este circuito es que existe una abertura en la resistencia R4. Una abertura ocurre debido a la ruptura del circuito en un componente causando que no allá caída de voltaje en los demás resistores ocupando una resistencia igual a 0, provocando que no exista corriente hasta la resistencia de abertura donde se puede apreciar la misma cantidad de voltaje que la fuente.
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_55b.JPG)
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2055a.JPG)
+
+El problema en este circuito es que no hay caída de voltaje entre el intervalo en el que dentro se encuentran comprendidos las resistencias R4 y R5 provocando un cortocircuito, otorgándoles una resistencia igual a 0, a excepción de las resistencias R1, R2 y R3 explicando el aumento de corriente en la imagen, producto de la disminución de resistencia del circuito eléctrico.
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2055b.JPG)
+
+**57) La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.**
+
+Tabla 5-1
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_57.JPG)
+
+Circuito Impreso
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_572.JPG)
+
+La Tabla de datos está bien en base a los datos entre resistencias debido a que en la placa están interconectadas directamente las resistencias formando únicamente 3 hileras de los cuales se muestran en la tabla a diferencia de las otras uniones que físicamente están separadas no existe un voltaje por lo tanto la resistencia se encuentra al infinito.
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_573.JPG)
+
+**59) Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo**
+
 **Cap 6 (Circuitos en paralelo)**
 
 **1.	Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería**
