@@ -154,6 +154,46 @@ No, debido a que en ninguna posición se excede la intensidad que soporta el fus
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2039.JPG)
 
+**41) ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.**
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_41.JPG)
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2041.JPG)
+
+**43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?**
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_43.JPG)
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2043.JPG)
+
+**45) Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del ±1% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.**
+
+**47) ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.**
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_47.JPG)
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2047.JPG)
+
+**49) Encuentre RT en la figura 5-89**
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_49.JPG)
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2049.JPG)
+
+**51) En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.**
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_51.JPG)
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2051.JPG)
+
+**53) En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.**
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_53.JPG)
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2053.JPG)
+
+**55) Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.**
+
 **Cap 6 (Circuitos en paralelo)**
 
 **1.	Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería**
