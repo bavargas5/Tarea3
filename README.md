@@ -128,6 +128,31 @@ No, debido a que en ninguna posición se excede la intensidad que soporta el fus
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMGBV/29.png)
 
+**31) Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor**
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2031.JPG)
+
+**33. En el circuito de la figura 5-81, determine la resistencia de R4.**
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_33.JPG)
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2033.JPG)
+
+**35) Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.**
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_35.JPG)
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2035.JPG)
+
+**37) La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Ω que forma parte de la resistencia total en serie?**
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2037.JPG)
+
+**39) Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).**
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_39.JPG)
+
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2039.JPG)
 
 **Cap 6 (Circuitos en paralelo)**
 
