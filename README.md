@@ -22,6 +22,8 @@ Emplear los conocimientos adquiridos sobre circuitos en serie y paralelo mediant
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Map%201.png)
 
+![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Map%202.png)
+
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 **Cap 5 (Circuitos en serie)**
