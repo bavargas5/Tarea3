@@ -476,7 +476,7 @@ La potencia total es la suma de todas las potencias de cada componente
 **43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante?
 ¿Cuál será la corriente total?**
 
- ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/25.png)
+ ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/25.PNG)
  
 
 
