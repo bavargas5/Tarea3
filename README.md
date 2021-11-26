@@ -404,7 +404,7 @@ PARA EL CASO B
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/18.5.png)
 
-35. Determine todos los valores de resistor en la figura 6-83. RT _ 773 Æ.
+**35. Determine todos los valores de resistor en la figura 6-83. RT _ 773 Æ.**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/19.png)
 
@@ -441,7 +441,7 @@ Por el medidor circula una corriente de 5 uA
 
 
 
-39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.
+**39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/21.png)
 
@@ -473,8 +473,11 @@ La potencia total es la suma de todas las potencias de cada componente
 
 
 
-43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante?
-¿Cuál será la corriente total?
+**43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante?
+¿Cuál será la corriente total?**
+
+ ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/25.png)
+ 
 
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/23.png)
