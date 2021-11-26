@@ -446,14 +446,22 @@ Por el medidor circula una corriente de 5 uA
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/21.png)
 
 PARA EL CASO A
+En el circuito podemos observar que las resistencias estan en sere por lo que podemos usar algunas formulas
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/21.1.png)
+
+Despues de encontrar la Resistencia total encontramos las intensidades de cada componente
+Encontrando asi los datos que nos pide el ejercicio.
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/21.2.png)
 
 PARA EL CASO B
 
+Este circuito tambien se encuentra en paralelo 
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/21.3.png)
+
+Despues de sacar la resistencia total sacaremos la intensidad de cada componente que conforma el circuito
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/21.4.png)
 
@@ -462,10 +470,13 @@ PARA EL CASO B
 **41.  Encuentre los valores de las cantidades no especificadas en la figura 6-84.**
 
 
+Tenemos un circuito en paralelo por lo cual  la suma de las intendidades de salida de los nodos es igual a la intensidad de entrada
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/22.png)
 
 La potencia total es la suma de todas las potencias de cada componente
+
+Para eso sacamos cada potencia con los datos encontrados de este circuito
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/22.1.png)
 
@@ -476,13 +487,17 @@ La potencia total es la suma de todas las potencias de cada componente
 **43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante?
 ¿Cuál será la corriente total?**
 
+Si se funde uno de los focos lo que pasa es que no va a existir paso de corriente por ese foco por lo cual solo nos quedarian  5 focos que podemos usar en este circuito.
+
  ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/25.PNG)
  
 
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/23.png)
 
- La corriente que circula por cada foco restante es 682 mA,
+ La corriente que circula por cada foco restante es 682 mA.
+ 
+ Sacamos la potencia:
  
  ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/23.1.png)
  
@@ -490,12 +505,17 @@ La potencia total es la suma de todas las potencias de cada componente
  
  **45.  ¿Qué está mal con el circuito de la figura 6-86?**
  
+ 
+ En el circuito podemos observar que es un circuito en paralelo 
+ 
  ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/24.png)
  
  La resistencia de 8.2 Ω está abierta por que no están con los puntos
  
-Además, sumando las intensidades solo nos da el resultado de la suma de R1 Y R2 sus corrientes
-Ley de ohm
+ 
+Además, sumando las intensidades solo nos da el resultado de la suma de R1 Y R2 sus corrientes.
+
+Para esto usamos la Ley de ohm enocntrando la intensidad de cada componente, podemos luego sumarla y obtener la respuesta
 
  
  ![](https://github.com/bavargas5/Tarea3/blob/main/IMAGENESBN/24.1.png)
