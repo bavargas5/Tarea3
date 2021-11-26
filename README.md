@@ -130,11 +130,15 @@ No, debido a que en ninguna posición se excede la intensidad que soporta el fus
 
 **31) Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor**
 
+En un circuito en serie se le conoce a la fórmula de Voltajes de Kirchhoff que la sumatoria de los voltajes incluyendo la de las fuentes de voltaje es igual a cero y así mismo la sumatoria de los voltajes, es igual al voltaje de la fuente. Usando este principio expresamos la fórmula de Voltajes de Kirchhoff para despejar el valor de voltaje restante. 
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2031.JPG)
 
 **33. En el circuito de la figura 5-81, determine la resistencia de R4.**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_33.JPG)
+
+A pesar de no tener el valor de la resistencia R4 tenemos su valor de voltaje al igual que las otras resistencias que si tienen su valor de resistividad. Ya que está comprobado que es un circuito en serie solo tenemos que sacar la intensidad de corriente que será igual en cada resistencia y nos permitirá sacar la resistencia R4 usando la formula de la ley de Ohm.
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2033.JPG)
 
@@ -142,15 +146,21 @@ No, debido a que en ninguna posición se excede la intensidad que soporta el fus
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_35.JPG)
 
+El circuito esta desarrollado de tal manera que a partir del cambio del switch podemos variar resistividad de la fuente cuyo único valor resistiva que no cambiará, será la resistencia R5 la cual es el valor faltante. No obstante, tenemos el valor de voltaje de la fuente, así como el valor de la intensidad de la corriente para cada cambio en el que se quiera establecer el switch. Entonces elegimos cualquier de los cambios del switch y sacamos la resistencia equivalente el cual también es considerada la sumatoria de todas las resistencias en serie, permitiendo despejar la resistencia faltante, para así conseguir su caída de voltaje en cada una de sus variaciones.
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2035.JPG)
 
 **37) La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Ω que forma parte de la resistencia total en serie?**
+
+Utilizando la formula de divisor de voltaje es posible obtener la caída de voltaje de un circuito sin necesidad de la intensidad de la corriente y aunque no se tenga el valor total de la fuente, al pedirnos el porcentaje que ocupara de la fuente es lo mismo que omitir el voltaje total en la formula y multiplicar por 100 obteniendo el porcentaje a partir de las resistencias.
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2037.JPG)
 
 **39) Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_39.JPG)
+
+Medir con el voltaje con respecto aun punto tierra hace referencia a las caídas de voltaje por nodos, por el cual se logra verificar la disminución de voltaje cada vez que la corriente circule a través de cada resistencia hasta volverse un voltaje cero. 
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2039.JPG)
 
@@ -172,6 +182,8 @@ No, debido a que en ninguna posición se excede la intensidad que soporta el fus
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_47.JPG)
 
+La caída de potencia es igual a la sumatoria de las potencias de todos los componentes dentro de un circuito. Cuya formula principal P = VI es capas de otorgar un despeje y ordenarle para cualquiera de los valores primordiales de la ley de Ohm 
+
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2047.JPG)
 
 **49) Encuentre RT en la figura 5-89**
@@ -183,6 +195,8 @@ No, debido a que en ninguna posición se excede la intensidad que soporta el fus
 **51) En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.**
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_51.JPG)
+
+Al medir un voltaje con respecto a un punto tierra podemos determinar las caídas de voltajes entre nodos, que a su ves es la sustracción del voltaje de la fuente con el voltaje de cada uno del resto de los componentes. Por lo tanto, al obtener el voltaje de cada resistor podemos obtener el voltaje de los nodos a través de la sustracción de manera escalonada con el voltaje de la fuente 
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/R%2051.JPG)
 
