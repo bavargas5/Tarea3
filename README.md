@@ -633,6 +633,8 @@ Para esto usamos la Ley de ohm enocntrando la intensidad de cada componente, pod
 
 ## VIDEO
 
+https://youtu.be/K6Hm5XyaKfc
+
 ## CONCLUSIONES
 
 -	En conclusión, resumir las partes más importantes de cada tema permitieron conservar mejor la información y así recordarla mejor posteriormente.
