@@ -210,7 +210,7 @@ Al medir un voltaje con respecto a un punto tierra podemos determinar las caída
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_55a.JPG)
 
-El problema con este circuito es que existe una abertura en la resistencia R4. Una abertura ocurre debido a la ruptura del circuito en un componente causando que no allá caída de voltaje en los demás resistores ocupando una resistencia igual a 0, provocando que no exista corriente hasta la resistencia de abertura donde se puede apreciar la misma cantidad de voltaje que la fuente.
+El problema con este circuito es que existe una abertura en la resistencia R4. Una abertura ocurre debido a la ruptura del circuito en un componente causando que no haya caída de voltaje en los demás resistores ocupando una resistencia igual a 0, provocando que no exista corriente hasta la resistencia de abertura donde se puede apreciar la misma cantidad de voltaje que la fuente.
 
 ![](https://github.com/bavargas5/Tarea3/blob/main/IMG%20Parth2/Lab%203_55b.JPG)
 
